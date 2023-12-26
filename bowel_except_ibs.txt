@@ -1,0 +1,39 @@
+Functional Constipation:
+1. Straining in >25% of defecations
+2. Lumpy/hard stools (Bristol Stool Scale types 1-2) in >25% of defecations
+3. Feeling of incomplete evacuation in >25% of defecations
+4. Sensation of anorectal blockage in >25% of defecations
+5. Manual maneuvers required in >25% of defecations
+6. <3 spontaneous bowel movements (SBM) per week
+7. Rare occurrence of loose stools without laxatives
+8. Symptoms not meeting Irritable Bowel Syndrome (IBS) criteria
+- Must be present for the last 3 months, with a symptom onset at least 6 months before diagnosis
+
+Functional Diarrhea:
+1. >25% of stools are loose or watery
+2. No predominant abdominal pain/bloating
+3. Excludes diarrhea-predominant IBS (IBS-D)
+- Criteria met for the last 3 months, with symptom onset at least 6 months before diagnosis
+
+Functional Abdominal Bloating/Distension:
+1. Recurrent bloating/distension (>1 day/week on average) is the predominant symptom
+2. Excludes IBS, functional constipation, diarrhea, or postprandial distress syndrome
+3. Possible mild pain associated with bloating and minor bowel movement abnormalities
+- Must be present for the last 3 months with symptom onset at least 6 months prior to diagnosis
+
+Unspecified Functional Bowel Disorder:
+1. Bowel symptoms not explained by an organic cause
+2. Does not meet criteria for IBS, functional constipation, diarrhea, or abdominal bloating/distension
+- Criterion met for the last 3 months with symptom onset at least 6 months before diagnosis
+
+Opioid-Induced Constipation:
+1. New or worsening constipation symptoms with the initiation/change/increase of opioid therapy; includes two or more of the following:
+   a. Straining in >25% of defecations
+   b. Lumpy/hard stools (Bristol Stool Scale types 1-2) in >25% of defecations
+   c. Sensation of incomplete evacuation in >25% of defecations
+   d. Sensation of anorectal blockage in >25% of defecations
+   e. Manual maneuvers required in >25% of defecations
+   f. Fewer than three SBM per week
+2. Rare occurrence of loose stools without laxatives
+
+Source: ROME IV Diagnostic Criteria for DGBIs 16 January 2016.
