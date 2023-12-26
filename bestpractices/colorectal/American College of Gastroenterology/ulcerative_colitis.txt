@@ -1,0 +1,47 @@
+Ulcerative Colitis (UC) Diagnostic Criteria and Prognosis:
+
+Suspicion and Initial Consideration:
+1. Hematochezia and urgency suggest UC
+2. Exclude infectious etiologies at diagnosis
+
+Diagnostic Procedures:
+1. Colonoscopy with ileal intubation and biopsies from affected/unaffected areas for histological confirmation 
+2. Disease extent classified as proctitis (E1), left-sided colitis (E2), extensive colitis (E3)
+
+When Other Evaluations Are Not Required:
+1. Normal terminal ileum on colonoscopy negates the need for further upper GI evaluation, unless suggestive of CD or other pathologies
+
+Severity Assessment:
+1. PRO based on bleeding and bowel habits, inflammatory burden, disease course and impact
+2. Fecal calprotectin as a noninvasive marker of disease activity
+
+Testing Recommendations:
+1. Stool testing for C. difficile (strong recommendation, very low quality of evidence)
+2. Against serologic antibody testing for UC diagnosis/prognosis (strong recommendation, very low quality of evidence)
+
+Disease Monitoring and Management:
+1. CRP, ESR as markers of systemic inflammation and disease severity
+2. Consider clinical history, extraintestinal manifestations, smoking cessation, NSAID usage, enteric infections
+3. FC as a discriminatory marker for differentiating IBD from irritable bowel syndrome 
+
+Prognosis:
+1. Assessing predictors of aggressive disease: extent, need for steroids, age at diagnosis, elevated CRP/ESR
+2. Previous hospitalization increases risk of colectomy
+3. Comprehensive assessment includes predictors of colectomy and response to therapy
+
+Endoscopic and Histologic Findings:
+1. Endoscopic severity with Mayo or UCEIS scores
+2. Histologic features for defining extent and surveillance intervals
+
+Impact on Quality of Life:
+1. Consider psychosocial and economic disruption in disease assessment 
+
+Evolution and Management of Disease:
+1. Risk of disease extension in localized disease, importance of regular follow-up 
+
+Factors Associated with Poor Prognosis:
+1. Extensive colitis, systemic steroids need, younger age at diagnosis, elevated inflammatory markers, history of UC hospitalization
+
+Source: 
+Rubin, David T. MD, FACG1; Ananthakrishnan, Ashwin N. MD, MPH2; Siegel, Corey A. MD, MS3; Sauer, Bryan G. MD, MSc (Clin Res), FACG (GRADE Methodologist)4; Long, Millie D. MD, MPH, FACG5. ACG Clinical Guideline: Ulcerative Colitis in Adults. The American Journal of Gastroenterology 114(3):p 384-413, March 2019. | DOI: 10.14309/ajg.0000000000000152
+
