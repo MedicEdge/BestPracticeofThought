@@ -1,0 +1,29 @@
+D. CENTRALLY MEDIATED DISORDERS OF GI PAIN
+
+D1. CENTRALLY MEDIATED ABDOMINAL PAIN SYNDROME (CAPS)
+
+Diagnostic criteria for CAPS must include all of the following:
+
+1. Persistent abdominal pain, either continuous or nearly continuous.
+2. Pain typically has no or only occasional relationship with physiological events such as eating, defecation, or menstruation.
+3. The pain interferes significantly with daily functioning, affecting activities like work, intimacy, social life, and caregiving. 
+4. The pain is genuine and not feigned.
+5. Cannot be explained by another structural or functional gastrointestinal disorder or different medical condition.
+   - This criterion has been met for at least the last 3 months with symptom onset at least 6 months before diagnosis.
+   - Although CAPS may be associated with psychosocial issues, there is no specific psychosocial profile required for diagnosis.
+
+D2. NARCOTIC BOWEL SYNDROME/OPIOID-INDUCED GI HYPERALGESIA
+
+Diagnostic criteria must include all of the following:
+
+1. Chronic or frequently recurring abdominal pain that is treated with either acute high doses or chronic use of narcotics.
+2. The nature and severity of the pain are not accounted for by a current or previous gastrointestinal diagnosis.
+3. Additionally, at least two of the following conditions must be present:
+   a. Pain that worsens or does not subside with continued or increased doses of narcotics.
+   b. Markedly greater pain when the narcotic dose decreases, with improvement upon re-administration (characterized by a "soar and crash" pattern).
+   c. Increasing episodes of pain in terms of frequency, duration, and intensity over time.
+   - Pain should be present on most days.
+   - Patients may have a coexisting structural diagnosis (such as inflammatory bowel disease or chronic pancreatitis), but this alone is insufficient to explain the pain symptoms.
+
+Source/Citation: 
+ROME IV Diagnostic Criteria for Disorders of Gut-Brain Interaction (DGBI). (2016). The Rome Foundation.
