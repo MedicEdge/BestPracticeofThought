@@ -1,15 +1,25 @@
-Evaluation of Hemorrhoids:
-1. Conduct a detailed medical history focused on duration and degree of symptoms such as bleeding, prolapse, perineal hygiene, and pain.
-2. Identify risk factors such as constipation.
-3. Evaluate for symptoms like bleeding with bowel movements and intermittent protrusion indicative of internal hemorrhoids.
-4. Review fiber intake, bowel habits, and consistency and ease of defecation.
-5. Perform physical examination, including digital rectal examination and anoscopic assessment.
-6. Grade internal hemorrhoids based on their presentation and extent of prolapse.
-- Strong recommendation based on low-quality evidence, 1C.
+Localised Colon Cancer (according to ESMO Clinical Practice Guidelines):
 
-Evaluation of Rectal Bleeding:
-1. Consider complete endoscopic evaluation of the colon in patients with symptomatic hemorrhoids and rectal bleeding.
-2. Evaluate for colorectal cancer, IBD, diverticular disease, and other potential causes of bleeding.
-- Strong recommendation based on moderate-quality evidence, 1B.
+Risk Factors:
+1. Incidence higher in males and varies between countries
+2. Lifestyle changes ('Westernisation'), obesity, inactivity, alcohol, red meat, smoking may increase risk
+3. Gut microbiota imbalances as potential risk factor
+4. High risk for individuals with a history of adenoma, colon cancer, inflammatory bowel disease
+5. Significant family history of CRC or adenoma
+6. Hereditary cancer syndromes (e.g., familial adenomatous polyposis, Lynch syndrome)
 
-Source: "Clinical Practice Guidelines for the Management of Hemorrhoids," The American Society of Colon and Rectal Surgeons, Diseases of the Colon & Rectum, 2018, DOI: 10.1097/DCR.0000000000001030.
+Screening Recommendations:
+1. Colonoscopy is recommended for CRC screening, with a repeat every 10 years if negative
+2. Flexible sigmoidoscopy every 5-10 years supplemented with yearly FOBT if colonoscopy is refused
+3. Non-invasive tests like FIT recommended if not enrolled in colonoscopy screening
+
+Diagnosis:
+1. Symptoms include changes in bowel habits, abdominal pain, weight loss, weakness, iron deficiency, anemia
+2. Colonoscopy recommended for diagnosis unless urgent surgery is needed
+3. CT scans of chest, abdomen, and pelvis to evaluate for distant metastases
+4. Lab workups including complete blood count, coagulation profile, liver/kidney function tests, albumin, and CEA levels
+5. MRI for clarifying ambiguous lesions or defining pT4b lesions
+6. FDG-PET scan not routinely recommended for staging of localised CRC
+
+
+Source: Annals of Oncology, Argilés et al. Localised colon cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Volume 31 - Issue 10 - 2020. https://doi.org/10.1016/j.annonc.2020.06.022
