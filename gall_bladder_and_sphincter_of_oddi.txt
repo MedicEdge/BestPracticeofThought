@@ -1,0 +1,43 @@
+E. GALLBLADDER & SPHINCTER OF ODDI DISORDERS
+
+E1. BILIARY PAIN
+Diagnostic Criteria:
+1. Pain in the epigastrium or right upper quadrant
+2. Pain builds to a steady level lasting 30 minutes or more
+3. Pain occurs at varying intervals (not daily)
+4. Pain disrupts daily activities or necessitates emergency department visit
+5. Pain is less than 20% related to bowel movements
+6. Pain relief of less than 20% from postural changes or acid suppression
+
+Supportive criteria for Biliary Pain may include:
+- Nausea and vomiting
+- Radiating pain to the back or right infra subscapular region
+- Pain awakening the patient from sleep
+
+E1a. FUNCTIONAL GALLBLADDER DISORDER
+Diagnostic Criteria:
+1. Meets criteria for biliary pain 
+2. Absence of gallstones or other structural gallbladder pathology
+
+Supportive Criteria:
+- Low gallbladder ejection fraction on scintigraphy
+- Normal liver function tests: liver enzymes, conjugated bilirubin, and pancreatic enzymes (amylase/lipase)
+
+E1b. FUNCTIONAL BILIARY SPHINCTER OF ODDI DISORDER
+Diagnostic Criteria:
+1. Meets criteria for biliary pain
+2. Either elevated liver enzymes or dilated bile duct on imaging (not both)
+3. No evidence of bile duct stones or other structural abnormalities
+
+Supportive Criteria:
+- Normal amylase/lipase levels
+- Abnormal sphincter of Oddi manometry 
+- Abnormalities on hepatobiliary scintigraphy
+
+E2. FUNCTIONAL PANCREATIC SPHINCTER OF ODDI DISORDER
+Diagnostic Criteria:
+1. Verified recurrent episodes of pancreatitis (typical pain with elevated amylase or lipase more than three times the normal limit and/or proof of acute pancreatitis on imaging)
+2. Other causes of pancreatitis have been excluded
+3. Negative findings on endoscopic ultrasound
+
+Source: ROME IV Diagnostic Criteria for DGBIs. 16 January 2016.
