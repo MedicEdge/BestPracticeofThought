@@ -1,0 +1,18 @@
+Age: 33
+Gender: Female
+Medical History: Gave birth 3 months ago, currently breastfeeding
+Lifestyle: Non-smoker, no alcohol consumption during breastfeeding
+Presenting Complaint:
+
+Painful, red, swollen area on the right breast
+Symptoms started 2 days ago
+Fever and malaise
+Physical Examination:
+
+Localized erythema and tenderness in the upper quadrant of the right breast
+Increased warmth in the affected area
+No palpable mass
+Investigations:
+
+Complete blood count showing elevated white blood cells
+Ultrasound to rule out abscess formation

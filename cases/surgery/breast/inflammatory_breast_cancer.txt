@@ -1,0 +1,23 @@
+Age: 54
+Gender: Female
+Medical History: Type 2 diabetes, managed with oral hypoglycemics
+Lifestyle: Overweight, low physical activity, non-smoker
+Presenting Complaint:
+
+Rapid onset of breast swelling and redness over the past month
+Breast feels warm and appears inflamed
+Orange-peel texture (peau d'orange) and thickening of the breast skin
+Physical Examination:
+
+Erythema and edema involving more than one-third of the right breast
+The affected breast is larger than the left
+No distinct palpable mass
+Investigations:
+
+Immediate mammography and ultrasound showing skin thickening
+Biopsy to confirm diagnosis and determine the subtype of breast cancer
+Variables:
+
+The aggressive nature of the disease requiring prompt treatment
+Patient's diabetes management during cancer treatment
+Psychological impact of a potential advanced cancer diagnosis

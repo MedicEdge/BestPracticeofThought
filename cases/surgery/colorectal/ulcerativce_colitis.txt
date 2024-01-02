@@ -1,0 +1,19 @@
+Age: 29
+Gender: Female
+Medical History: No significant past medical history
+Family History: Father has Crohn's disease
+Lifestyle: Non-smoker, moderate alcohol use
+Presenting Symptoms:
+
+Persistent diarrhea mixed with blood and mucus
+Abdominal cramps and pain
+Urgency to defecate
+Fatigue and general malaise
+Physical Examination Findings:
+
+Mild abdominal distension
+Bowel sounds present but hyperactive
+Laboratory Tests:
+
+CBC: Elevated white blood cell count
+ESR and CRP: Elevated

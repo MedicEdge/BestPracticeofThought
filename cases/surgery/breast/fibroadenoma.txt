@@ -1,0 +1,17 @@
+Age: 29
+Gender: Female
+Medical History: Regular menstrual cycles, no significant past medical or surgical history
+Lifestyle: Active, non-smoker, occasional alcohol consumption
+Presenting Complaint:
+
+A mobile, painless lump in the left breast discovered during self-examination
+Lump size appears to vary with menstrual cycle
+Physical Examination:
+
+A 1.5cm smooth, round, mobile mass palpable in the lower inner quadrant of the left breast
+No skin changes or nipple discharge
+No palpable lymph nodes in the axilla
+Investigations:
+
+Ultrasound of the breast indicating a well-circumscribed, homogeneous mass
+Patient scheduled for a fine-needle aspiration

@@ -1,0 +1,18 @@
+Age: 45
+Gender: Female
+Medical History: Fibrocystic breast changes noted in the past, no significant family history of breast cancer
+Lifestyle: Occasional smoker, low physical activity
+Presenting Complaint:
+
+A palpable, tender lump in the left breast noticed one week ago
+Tenderness fluctuates with menstrual cycle
+No nipple discharge
+Physical Examination:
+
+A smooth, round mass palpable in the upper outer quadrant of the left breast
+Mass is mobile and tender on palpation
+No axillary lymphadenopathy
+Investigations:
+
+Ultrasound showing a fluid-filled cyst
+Fine-needle aspiration scheduled to confirm diagnosis and relieve symptoms

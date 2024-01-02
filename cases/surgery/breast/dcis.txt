@@ -1,0 +1,17 @@
+Age: 47
+Gender: Female
+Medical History: No significant personal or family history of cancer
+Lifestyle: Healthy diet, regular exercise, non-smoker
+Presenting Complaint:
+
+Microcalcifications found during routine mammography
+No symptoms or palpable lumps
+Physical Examination:
+
+No palpable abnormalities in either breast
+No skin changes or nipple abnormalities
+Breasts symmetric with no palpable axillary lymph nodes
+Investigations:
+
+Diagnostic mammogram indicating clustered microcalcifications
+Biopsy planned to ascertain the nature of the calcifications

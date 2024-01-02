@@ -1,0 +1,18 @@
+Age: 52
+Gender: Female
+Medical History: Hypertension controlled with medication, no history of cancer in the family
+Lifestyle: Non-smoker, moderate alcohol use, sedentary lifestyle
+Presenting Complaint:
+
+A palpable lump in the right breast, noticed 2 months ago
+No associated pain
+No skin changes or nipple discharge
+Physical Examination:
+
+A 2cm firm, immobile lump in the upper outer quadrant of the right breast
+No axillary lymphadenopathy
+No skin retraction or nipple inversion
+Investigations:
+
+Mammogram scheduled
+Ultrasound of the breast and axilla

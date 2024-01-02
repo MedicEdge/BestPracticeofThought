@@ -1,0 +1,21 @@
+Age: 45
+Gender: Female
+Medical History: Anxiety, migraines
+Family History: Sister with IBS
+Lifestyle: High-stress job, irregular meals
+Presenting Symptoms:
+
+Abdominal pain and cramping relieved by defecation
+Alternating diarrhea and constipation
+Bloating and gas
+Physical Examination Findings:
+
+Abdominal examination shows no abnormalities
+No signs of anemia or weight loss
+Laboratory Tests:
+
+CBC: Normal
+Thyroid function tests: Normal
+Imaging:
+
+Ultrasound of the abdomen: Normal

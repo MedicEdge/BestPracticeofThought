@@ -1,0 +1,19 @@
+Age: 62
+Gender: Female
+Medical History: History of diverticulosis, hypercholesterolemia
+Family History: Non-contributory
+Lifestyle: Low fiber diet, occasional exercise
+Presenting Symptoms:
+
+Sudden pain in the lower left abdomen
+Fever and chills
+Nausea and occasional vomiting
+Change in bowel habits
+Physical Examination Findings:
+
+Tenderness in the lower left quadrant of the abdomen
+No rebound tenderness
+Laboratory Tests:
+
+CBC: Elevated white blood cell count
+Urinalysis: Normal

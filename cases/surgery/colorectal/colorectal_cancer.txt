@@ -1,0 +1,20 @@
+Age: 54
+Gender: Male
+Medical History: Hypertension, Type 2 Diabetes
+Family History: Mother had breast cancer; no known family history of gastrointestinal cancers
+Lifestyle: Sedentary; high-fat diet
+Presenting Symptoms:
+
+Recent onset of abdominal pain and discomfort
+Noticeable changes in bowel habits over the past two months
+Occasional blood in stool
+Unintentional weight loss of 10 pounds over three months
+Physical Examination Findings:
+
+Mild abdominal tenderness on palpation
+No palpable masses
+Digital rectal exam revealed no abnormalities
+Laboratory Tests:
+
+CBC: Mild anemia
+Fecal occult blood test: Positive

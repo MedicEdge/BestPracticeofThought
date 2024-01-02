@@ -29,7 +29,7 @@ Example Output for Parsing:
 {
   "DiagnosticCriteriaGuideline": "Criteria/Guideline used for this evaluation",
   "SuspectedDiagnosis": "Disorder A",
-  "Confidence": "High/Moderate/Low/Unlikely",
+  "Confidence": "0-100%",
   "AssessmentOfPatientSymptoms": "Description of patient's symptoms in relation to Disorder A",
   "EvidenceForPrediction": {
     "EvidenceFor": "Aligning symptoms and findings",

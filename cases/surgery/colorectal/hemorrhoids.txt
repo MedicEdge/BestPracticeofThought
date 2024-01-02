@@ -1,0 +1,19 @@
+Age: 38
+Gender: Male
+Medical History: Obese, recurrent constipation
+Family History: Mother had varicose veins
+Lifestyle: Sedentary job, low physical activity
+Presenting Symptoms:
+
+Anal itching and discomfort
+Painless bleeding during bowel movements
+Feeling of a lump near the anus
+Physical Examination Findings:
+
+External hemorrhoids noted
+No signs of infection
+Laboratory Tests:
+
+CBC: Normal
+Fecal occult blood test: Negative
+
